@@ -1,0 +1,10 @@
+GetPlaceByNickname ( emerald city ) => Seattle
+GetPlaceByNickname ( city of angels ) => Los Angels
+called GetForecast ( 34.0522, -118.2437 ) 
+called GetAlerts ( California ) 
+called GetAlerts ( Washington ) 
+GetPlaceByNickname ( emerald city ) => Seattle
+called GetForecast ( 47.6062, -122.3321 ) 
+called GetAlerts ( Washington ) 
+GetPlaceByNickname ( emerald city ) => Seattle
+called GetForecast ( 47.6062, -122.3321 ) 

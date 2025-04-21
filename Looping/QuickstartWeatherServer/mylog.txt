@@ -1,0 +1,4 @@
+called GetAlerts ( WA ) 
+GetPlaceByNickname ( big apple ) => New York
+GetPlaceByNickname ( big apple ) => New York
+GetPlaceByNickname ( city of angels ) => Los Angels
