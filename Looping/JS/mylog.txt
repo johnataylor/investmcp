@@ -1,0 +1,2 @@
+called GetAlerts ( WA ) 
+GetPlaceByNickname ( Emerald City ) => Seattle
